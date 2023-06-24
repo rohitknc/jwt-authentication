@@ -1,0 +1,25 @@
+.uls
+{
+    position: relative;
+    width: 100vw;
+    background-color: burlywood;
+    display: flex;
+    height: 40px;
+    align-items: center;
+
+}
+.uls ul{
+    position: 'relative';
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+ul li {
+   list-style: none;
+   text-transform: uppercase;
+  
+}
+ul li a:hover{
+    color:rgb(234, 14, 157);
+}
+
